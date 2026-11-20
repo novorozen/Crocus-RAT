@@ -22,6 +22,7 @@
 <br>• Browsers data recovery: downloads, cookies, passwords, credit cards, history (with cookie app-bound key decryption)
 <br>• Browsers history
 <br>• Telegram sessions
+<br>• Thunderbird sessions
 <br>• Discord tokens
 <br>• Screenshot grabbing
 <br>• Microphone recording
